@@ -1,0 +1,18 @@
+h1{
+    color:aqua;
+    font-size: 50px;
+    text-align: center
+}
+p{
+    color:lightseagreen;
+    margin-left:30px
+}
+.text-title{
+    font-size: 30px;
+    color:cornflowerblue;
+    text-align: left;
+    margin-left: 30px
+}
+body{
+    background-image: url(../Background.png);
+}
